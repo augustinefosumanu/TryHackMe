@@ -7,22 +7,49 @@
 </br>
 
 ## Task 2
-
 **Analyse the report associated with the hash "b8ef959a9176aef07fdca8705254a163b50b49a17217a4ff0107487f59d4a35d". What is the filename of the sample?**
 
 ```shell
 Sales_Receipt 5606.xls
 ```
 
-## Task 
+## Task 3
+****
+```shell
 
+```
+
+## Task 4
 ****
 ```shell
 
 ```
 
 ## Task 
+****
+```shell
 
+```
+
+## Task 
+****
+```shell
+
+```
+
+## Task 
+****
+```shell
+
+```
+
+## Task 
+****
+```shell
+
+```
+
+## Task 
 ****
 ```shell
 
