@@ -2,79 +2,13 @@
 
 ## Walkthrough
 
-</br>
-</br>
+
+## Task 2
+
 
 </br>
 </br>
 
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-## 
 ****
 ```shell
 
