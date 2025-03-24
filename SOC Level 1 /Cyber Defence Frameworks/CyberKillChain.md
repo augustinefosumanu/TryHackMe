@@ -1,4 +1,4 @@
-# [Cyber Kill Chain](https://tryhackme.com/room/pyramidofpainax)
+# [Cyber Kill Chain](https://tryhackme.com/room/cyberkillchainzmt)
 
 ## Walkthrough
 
