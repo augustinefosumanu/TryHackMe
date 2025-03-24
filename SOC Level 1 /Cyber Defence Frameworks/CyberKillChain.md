@@ -1,4 +1,4 @@
-# [Pyramid of Pain](https://tryhackme.com/room/pyramidofpainax)
+# [Cyber Kill Chain](https://tryhackme.com/room/pyramidofpainax)
 
 ## Walkthrough
 
