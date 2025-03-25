@@ -1,124 +1,51 @@
-# [Pyramid of Pain](https://tryhackme.com/room/pyramidofpainax)
+# [Unified Kill Chain](https://tryhackme.com/room/unifiedkillchain)
 
 ## Walkthrough
 
-</br>
-</br>
+## Task 2
 
-</br>
-</br>
+**Where does the term "Kill Chain" originate from?**
+```shell
+military
+```
 
-</br>
-</br>
+## Task 3
 
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-## 
 ****
 ```shell
 
 ```
+
+## Task 4
+
 ****
 ```shell
 
 ```
+
+## Task 5
+
 ****
 ```shell
 
 ```
+
+## Task 6
+
 ****
 ```shell
 
 ```
+
+## Task 7
+
 ****
 ```shell
 
 ```
-****
-```shell
 
-```
-****
-```shell
+## Task 8
 
-```
-****
-```shell
-
-```
-****
-```shell
-
-```
-****
-```shell
-
-```
-****
-```shell
-
-```
 ****
 ```shell
 
