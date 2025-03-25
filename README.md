@@ -1,5 +1,7 @@
 # TryHackMe
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4024380" style='border:none;'></iframe>
+
 [SOC Level 1](https://tryhackme.com/paths)
   - [Cyber Defence Frameworks](https://github.com/augustinefosumanu/TryHackMe/tree/main/SOC%20Level%201%20/Cyber%20Defence%20Frameworks)
     - [Junior Security Analyst - Intro](https://github.com/augustinefosumanu/TryHackMe/blob/main/SOC%20Level%201%20/Cyber%20Defence%20Frameworks/JuniorAnalystIntro.md)
