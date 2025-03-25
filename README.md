@@ -1,6 +1,6 @@
 # TryHackMe
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4024380" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/augustinefmanu.png" alt="Your Image Badge" />
 
 [SOC Level 1](https://tryhackme.com/paths)
   - [Cyber Defence Frameworks](https://github.com/augustinefosumanu/TryHackMe/tree/main/SOC%20Level%201%20/Cyber%20Defence%20Frameworks)
