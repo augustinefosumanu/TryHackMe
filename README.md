@@ -15,6 +15,15 @@
 
 
   - [Cyber Threat Intelligence](https://github.com/augustinefosumanu/TryHackMe/tree/main/SOC%20Level%201%20/Cyber%20Threat%20Intelligence)
+    - [Intro to Cyber Threat Intel]()
+    - [Threat Intelligence Tools]()
+    - [Yara]()
+    - [OpenCTI]()
+    - [MISP]()
+    - [Friday Overtime]()
+    - [Trooper]()
+
+
   - [Network Security and Traffic Analysis](https://github.com/augustinefosumanu/TryHackMe/tree/main/SOC%20Level%201%20/Network%20Security%20%26%20Traffic%20Analysis)
   - [Endpoint Security Monitoring](https://github.com/augustinefosumanu/TryHackMe/tree/main/SOC%20Level%201%20/Endpoint%20Security%20Monitoring)
   - [Security Information and Event Management](https://github.com/augustinefosumanu/TryHackMe/tree/main/SOC%20Level%201%20/Security%20Information%20and%20Event%20Managment)
