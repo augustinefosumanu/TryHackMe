@@ -1,124 +1,44 @@
-# [Pyramid of Pain](https://tryhackme.com/room/pyramidofpainax)
+# [MITRE](https://tryhackme.com/room/mitre)
 
 ## Walkthrough
 
-</br>
-</br>
+## Task 3
 
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-</br>
-</br>
-
-## 
 ****
 ```shell
 
 ```
+
+## Task 4
+
 ****
 ```shell
 
 ```
+
+## Task 5
+
 ****
 ```shell
 
 ```
+
+## Task 6
+
 ****
 ```shell
 
 ```
+
+## Task 7
+
 ****
 ```shell
 
 ```
-****
-```shell
 
-```
-****
-```shell
+## Task 8
 
-```
-****
-```shell
-
-```
-****
-```shell
-
-```
-****
-```shell
-
-```
-****
-```shell
-
-```
 ****
 ```shell
 
