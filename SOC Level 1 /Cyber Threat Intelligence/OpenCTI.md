@@ -1,4 +1,4 @@
-# [](https://tryhackme.com/room/)
+# [OpenCTI](https://tryhackme.com/room/opencti)
 
 ## Walkthrough
 
