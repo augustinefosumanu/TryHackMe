@@ -17,7 +17,7 @@
   - [Cyber Threat Intelligence](https://github.com/augustinefosumanu/TryHackMe/tree/main/SOC%20Level%201%20/Cyber%20Threat%20Intelligence)
     - [Intro to Cyber Threat Intel]()
     - [Threat Intelligence Tools]()
-    - [Yara]()
+    - [Yara](https://github.com/augustinefosumanu/TryHackMe/blob/main/SOC%20Level%201%20/Cyber%20Threat%20Intelligence/Yara.md)
     - [OpenCTI]()
     - [MISP]()
     - [Friday Overtime]()
