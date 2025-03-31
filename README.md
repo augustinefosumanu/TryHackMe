@@ -15,13 +15,13 @@
 
 
   - [Cyber Threat Intelligence](https://github.com/augustinefosumanu/TryHackMe/tree/main/SOC%20Level%201%20/Cyber%20Threat%20Intelligence)
-    - [Intro to Cyber Threat Intel]()
-    - [Threat Intelligence Tools]()
+    - [Intro to Cyber Threat Intel](https://github.com/augustinefosumanu/TryHackMe/blob/main/SOC%20Level%201%20/Cyber%20Threat%20Intelligence/IntrotoCyberThreatIntel.md)
+    - [Threat Intelligence Tools](https://github.com/augustinefosumanu/TryHackMe/blob/main/SOC%20Level%201%20/Cyber%20Threat%20Intelligence/ThreatIntelligenceTools.md)
     - [Yara](https://github.com/augustinefosumanu/TryHackMe/blob/main/SOC%20Level%201%20/Cyber%20Threat%20Intelligence/Yara.md)
-    - [OpenCTI]()
-    - [MISP]()
-    - [Friday Overtime]()
-    - [Trooper]()
+    - [OpenCTI](https://github.com/augustinefosumanu/TryHackMe/blob/main/SOC%20Level%201%20/Cyber%20Threat%20Intelligence/OpenCTI.md)
+    - [MISP](https://github.com/augustinefosumanu/TryHackMe/blob/main/SOC%20Level%201%20/Cyber%20Threat%20Intelligence/MISP.md)
+    - [Friday Overtime](https://github.com/augustinefosumanu/TryHackMe/blob/main/SOC%20Level%201%20/Cyber%20Threat%20Intelligence/FridayOvertime.md)
+    - [Trooper](https://github.com/augustinefosumanu/TryHackMe/blob/main/SOC%20Level%201%20/Cyber%20Threat%20Intelligence/Trooper.md)
 
 
   - [Network Security and Traffic Analysis](https://github.com/augustinefosumanu/TryHackMe/tree/main/SOC%20Level%201%20/Network%20Security%20%26%20Traffic%20Analysis)
