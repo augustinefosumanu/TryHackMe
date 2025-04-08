@@ -30,27 +30,27 @@ The MITRE Corporation
 
 ## Task 6
 
-****
+**What is the earliest date recorded related to CaddyWiper?  Format: YYYY/MM/DD**
 ```shell
-
+2022/03/15
 ```
-****
+**Which Attack technique is used by the malware for execution?**
 ```shell
-
+Native API
 ```
-****
+**How many malware relations are linked to this Attack technique?**
 ```shell
-
+113
 ```
-****
+**Which 3 tools were used by the Attack Technique in 2016? (Ans: Tool1, Tool2, Tool3)**
 ```shell
-
+BloodHound, Empire, ShimRatReporter
 ```
-****
+**What country is APT37 associated with?**
 ```shell
-
+North Korea
 ```
-****
+**Which Attack techniques are used by the group for initial access? (Ans: Technique1, Technique2)**
 ```shell
-
+T1189, T1566
 ```
