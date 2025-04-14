@@ -155,6 +155,11 @@ What is the number of the generated alerts?**
 ## Task 9
 
 ![image](https://github.com/user-attachments/assets/55e0c159-b22d-448d-9cfc-77d0fb155bd5)
+![image](https://github.com/user-attachments/assets/ba744f78-38ff-416f-b7ac-d24f5ee81959)
+![image](https://github.com/user-attachments/assets/4b76233d-3fba-4de0-b135-a87574e8e090)
+![image](https://github.com/user-attachments/assets/26b9fbdd-11b8-4a98-93b8-30595775c5d3)
+![image](https://github.com/user-attachments/assets/c9366723-825e-4164-82e7-c3ea6e10c2ac)
+![image](https://github.com/user-attachments/assets/dc460e8b-316c-46c2-9e09-21408f5fdfdb)
 </br>
 
 **Use "task9.pcap". Write a rule to filter IP ID "35369" and run it against the given pcap file. What is the request name of the detected packet? You may use this command: "snort -c local.rules -A full -l . -r task9.pcap"**
