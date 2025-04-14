@@ -57,6 +57,8 @@ drop tcp any 4444 <> any any (msg: "SSH Denied"; sid: 1000001; rev: 1;)
 
 drop tcp any any <> any 4444 (msg: "SSH Denied"; sid: 1000002; rev: 1;)
 
+sudo snort -c /etc/snort/snort.conf -q -Q --daq afpacket -i eth0:eth1 -A full
+
 THM{0ead8c494861079b1b74ec2380d2cd24}
 ```
 **What is the used protocol/port in the attack?**
