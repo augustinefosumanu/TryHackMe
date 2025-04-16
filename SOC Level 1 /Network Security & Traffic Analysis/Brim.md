@@ -2,6 +2,20 @@
 
 ## Walkthrough
 
+### Task 
+
+****
+```shell
+
+```
+****
+```shell
+
+```
+****
+```shell
+
+```
 
 ### Task 
 
@@ -17,10 +31,24 @@
 ```shell
 
 ```
+
+### Task 
+
 ****
 ```shell
 
 ```
+****
+```shell
+
+```
+****
+```shell
+
+```
+
+### Task 
+
 ****
 ```shell
 
