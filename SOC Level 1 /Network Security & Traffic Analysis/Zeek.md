@@ -195,38 +195,72 @@ cat notice.log | grep Brute |wc -l
 
 ## Task 8
 
-****
+**Investigate the case1.pcap file with intelligence-demo.zeek script. Investigate the intel.log file. Look at the second finding, where was the intel info found?**
 ```shell
+cd /home/ubuntu/Desktop/Exercise-Files/TASK-8
 
+zeek -C -r case1.pcap intelligence-demo.zeek 
+
+cat intel.log -n 2
+
+IN_HOST_HEADER
 ```
-****
+**Investigate the http.log file. What is the name of the downloaded .exe file?**
 ```shell
+cat http.log | grep .exe
 
+knr.exe
 ```
-****
+**Investigate the case1.pcap file with hash-demo.zeek script. Investigate the files.log file. What is the MD5 hash of the downloaded .exe file?**
 ```shell
+zeek -C -r case1.pcap hash-demo.zeek
 
+cat files.log | grep .exe
+
+cc28e40b46237ab6d5282199ef78c464
 ```
-****
+**Investigate the case1.pcap file with file-extract-demo.zeek script. Investigate the "extract_files" folder. Review the contents of the text file. What is written in the file?**
 ```shell
+zeek -C -r case1.pcap file-extract-demo.zeek 
 
+cd extract_files/
+
+less extract-1561667874.743959-HTTP-Fpgan59p6uvNzLFja
+
+Microsoft NCSI
 ```
 
 ## Task 9
 
-****
+**Investigate the http.pcap file with the zeek-sniffpass module. Investigate the notice.log file. Which username has more module hits?**
 ```shell
+cd /home/ubuntu/Desktop/Exercise-Files/TASK-9/cleartext-pass
 
+zeek -Cr http.pcap /opt/zeek/share/zeek/site/zeek-sniffpass
+
+cat notice.log |zeek-cut msg
+
+BroZeek
 ```
-****
+**Investigate the case2.pcap file with geoip-conn module. Investigate the conn.log file. What is the name of the identified City?**
 ```shell
+cd /home/ubuntu/Desktop/Exercise-Files/TASK-9/geoip-conn
 
+zeek -Cr case2.pcap geoip-conn
+
+cat conn.log |zeek-cut geo.resp.city
+
+Chicago
 ```
-****
+**Which IP address is associated with the identified City?**
 ```shell
+cat conn.log |zeek-cut id.resp_h
 
+23.77.86.54
 ```
-****
+**Investigate the case2.pcap file with sumstats-counttable.zeek script. How many types of status codes are there in the given traffic capture?**
 ```shell
+zeek -Cr case2.pcap sumstats-counttable.zeek 
 
+4
 ```
