@@ -1,4 +1,4 @@
-# [](https://tryhackme.com/room/)
+# [TShark Challenge II: Directory](https://tryhackme.com/room/tsharkchallengestwo)
 
 ## Walkthrough
 
