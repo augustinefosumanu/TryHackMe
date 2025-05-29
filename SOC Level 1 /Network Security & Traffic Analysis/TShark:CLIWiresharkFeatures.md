@@ -110,35 +110,66 @@ tshark -r credentials.pcap -z credentials -q | nl
 ```
 
 ## Task 5
-
-****
+![image](https://github.com/user-attachments/assets/468eb941-2a29-40ab-8f77-e5a3790770ac)
+</br>
+**Use the "demo.pcapng" to answer questions.
+What is the HTTP packet number that contains the keyword "CAFE"?**
+![image](https://github.com/user-attachments/assets/1c8ad59a-78c1-46a5-aa5b-78d3f86d1cce)
+</br>
 ```shell
+tshark -r demo.pcapng -Y 'http contains "CAFE"'
 
+27
 ```
-****
+**Filter the packets with "GET" and "POST" requests and extract the packet frame time.
+What is the first time value found?**
+![image](https://github.com/user-attachments/assets/56e58ab4-19b3-4f99-aef0-f98160513d14)
+</br>
 ```shell
+tshark -r demo.pcapng -Y 'http.request.method matches "(GET|POST)"' -T fields -e http.request.method -e frame.time -E header=y
 
+May 13, 2004 10:17:08.222534000 UTC
 ```
 
 ## Task 6
 
-****
+**Use the "hostnames.pcapng" to answer the questions.
+What is the total number of unique hostnames?**
+![image](https://github.com/user-attachments/assets/90334ea3-7735-497a-8f6b-ef125005efcf)
+</br>
 ```shell
+tshark -r hostnames.pcapng -T fields -e dhcp.option.hostname | awk NF | sort -r | uniq -c | sort -r | nl
 
+30
 ```
-****
+**What is the total appearance count of the "prus-pc" hostname?**
 ```shell
-
+12
 ```
-****
+**Use the "dns-queries.pcap" to answer the question.
+What is the total number of queries of the most common DNS query?**
+![image](https://github.com/user-attachments/assets/dad1bd84-a4f6-4ff5-984e-bd02fa7a2e20)
+</br>
 ```shell
+tshark -r dns-queries.pcap -T fields -e dns.qry.name | awk NF | sort -r | uniq -c | sort -r |nl
 
+472
 ```
-****
+**Use the "user-agents.pcap" to answer questions.
+What is the total number of the detected "Wfuzz user agents"?**
+![image](https://github.com/user-attachments/assets/a2176a10-bc66-45ab-a571-06800f838e0b)
+</br>
 ```shell
+tshark -r user-agents.pcap -T fields -e http.user_agent |awk NF |sort -r | uniq -c | sort -r
 
+12
 ```
-****
+**What is the "HTTP hostname" of the nmap scans?
+Enter your answer in defanged format.**
+![image](https://github.com/user-attachments/assets/087b314f-28bf-4b6e-82e5-a26e4864d4a1)
+</br>
 ```shell
+tshark -r user-agents.pcap -T fields -e http.host | awk NF | sort -r | uniq -c | sort -r
 
+172[.]16[.]172[.]129
 ```
