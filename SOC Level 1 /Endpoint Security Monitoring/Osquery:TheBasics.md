@@ -1,4 +1,4 @@
-# [](https://tryhackme.com/room/)
+# [Osquery: The Basics](https://tryhackme.com/room/osqueryf8)
 
 ## Walkthrough
 
@@ -86,7 +86,7 @@ DiskWipe.exe
 ```
 **Create a search query to identify the VPN installed on this host. What is name of the software?**
 ```shell
-select * from programs where name like '%vpn%'
+select * from programs where name like '%vpn%';
 
 ProtonVPN
 ```
